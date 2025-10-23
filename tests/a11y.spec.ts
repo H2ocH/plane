@@ -1,0 +1,1 @@
+full contents of tests/a11y.spec.ts
