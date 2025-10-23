@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Trip Planner",
+  "description": "An intelligent travel planner that creates personalized itineraries. Users can input their destination, trip duration, budget, and interests to receive a detailed daily plan including recommended activities, hotels, restaurants, and flight suggestions.",
+  "requestFramePermissions": []
+}
